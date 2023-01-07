@@ -1,6 +1,7 @@
 # django-project
 ## Project Name: E-Commerce Project
-	## Project Summary: This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalogue of different product available for purchase in the store. Users can purchase their selected products by registering and logging in. A cart option will be available to store selected products. User may able to view the specific product ratings. Vendors can predict their sales for the particular products (Optional).
+## Project Summary: 
+This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalogue of different product available for purchase in the store. Users can purchase their selected products by registering and logging in. A cart option will be available to store selected products. User may able to view the specific product ratings. Vendors can predict their sales for the particular products (Optional).
 ## Project Features: 
 	1. Home: This feature display all categorical products. Including product banner. 
 	2. Item Menu: This feature show all the available items in the project. 
